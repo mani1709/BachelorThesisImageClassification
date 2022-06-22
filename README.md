@@ -10,3 +10,5 @@ HandGestureRecognizerBinary.ipynb is the binary classifier (handExists or handNo
 HandGestureRecognizerMultipleGestures.ipynb is the multi class gesture classifier (5 different handposes)
 
 ParameterTesting.ipynb shows how different parameters change the accuracy (takes 45 minutes on my GPU, therefore i provided my output in the file as text)
+
+A showcase can be found here: https://youtu.be/3fsEKxG2vEQ
